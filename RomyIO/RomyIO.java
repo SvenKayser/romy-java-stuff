@@ -1,4 +1,4 @@
-package com.svenkayser.romyio;
+package RomyIO;
 
 import java.awt.BorderLayout;
 import java.awt.Dimension;
