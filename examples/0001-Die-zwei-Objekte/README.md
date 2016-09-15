@@ -17,9 +17,3 @@ Implementiere basierend auf den vorhandenen Klassen die Methoden
 * smsLesen, für jeden Besitzer, womit ein Besitzer von seinem eigenen Handy darauf aufmerksam gemacht wird eine Nachricht empfangen zu haben
 * smsVesenden, für jedes Handy, womit ein Handy eine SMS an ein anderes Handy schickt
 * smsEmpfangen, für jedes Handy, womit ein Handy eine SMS empfängt, und seinen Besitzer darauf aufmerksam macht
-
-##Übung für Schlauponies mit Flügeln:
-
-Stelle sicher, dass obige Methoden das Guthaben reduzieren, wenn eine SMS versendet wird, und einen Fehler liefern, wenn das Guthaben nicht mehr ausreicht. Sorge außerdem dafür, dass auch der SMS Speicher für empfangene SMS berücksichtigt wird, und einen Fehler liefert, sollten beim Empfang keine weiteren SMS gespeichert werden können.
-
-
