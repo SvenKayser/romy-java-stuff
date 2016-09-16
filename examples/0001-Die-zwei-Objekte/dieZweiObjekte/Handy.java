@@ -93,7 +93,7 @@ public class Handy {
 	/**
 	 * Methode, die den Handyspeicher löscht und wieder auf 0 setzt
 	 */
-	public void speicherLöschen(){
+	public void speicherLoeschen(){
 		speicher = 0;
 	}
 }
