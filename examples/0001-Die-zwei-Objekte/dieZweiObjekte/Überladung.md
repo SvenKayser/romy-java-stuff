@@ -10,7 +10,7 @@ public void waehlen(String pPartei)
 }
 ```
 
-Wird jedoch die Methode jedoch ohne einen Parameter verwendet, wir eine vorher festgelegte Partei gewählt
+Wird jedoch die Methode jedoch ohne einen Parameter verwendet, wird eine vorher festgelegte Partei gewählt
 ```java
 public void waehlen()
 {
