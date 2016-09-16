@@ -16,5 +16,6 @@ public void waehlen()
 {
 	waehlen("Die Violetten");
 }
+```
 
 Beachte, wie in diesem Beispiel die Methode ohne Parameter die gleiche Methode mit Parameter aufruft, mit einem bereits vordefinierten Wert. Dies ist von mehreren Möglichkeiten um Methoden mit Standardwerten zur Verwendung zur Verfügung zu stellen, ohne den gleichen Code mehrfach notieren zu müssen.
